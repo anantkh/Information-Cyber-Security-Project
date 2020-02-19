@@ -18,7 +18,7 @@ Project 1 - Zorus Tech
 * Since the margin of error (misclassification) in classifying URLs could hinder Zorus Product credibility, 
   Zorus needs a URL classification model that can accurately classify given URLs into one of the 15 categories.
 
-3.	Dataset Introduction
+3.	Dataset Introduction:
 * The dataset is related to website classification (DMOZ dataset). It has three columns which are ID, URL and Category. 
 * URL is the predictor variable and Category is the target variable. It has 1.5 million URLs with 15 different categories. 
 * The dataset is highly imbalanced. Few of the URLs are repeated with different categories. Many of the URLs were inaccessible.
